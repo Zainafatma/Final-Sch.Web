@@ -1,0 +1,116 @@
+#mynav_bar{
+    background-color: aliceblue;
+    color: black;
+
+}
+#mynav_bar :hover{
+color: black;
+}
+.links:hover{
+    background-color:rgb(209, 69, 69);
+    color: aliceblue;
+}
+#academics{
+    text-align: center;
+    font-family:Helvetica;
+    background-color: rgb(62, 230, 230 , 0.3);
+}
+#adm{
+    text-align: center;
+    font-family:Helvetica;background-color: rgb(73, 238, 23 , 0.5);
+}
+#conatct{
+    text-align: center;
+    font-family:Helvetica;
+}
+#about{
+    text-align: center;
+    font-family:Helvetica;
+}
+#news{
+    text-align: center;
+    font-family:Helvetica;background-color: rgb(250, 237, 120, 0.5);
+}
+.paragraph{
+font-family: monospace;
+font-size: 25px;
+background-color: rgba(60, 66, 145, 0.5);
+color: antiquewhite;
+}
+body{
+    background-color: beige;
+}
+#faculty{
+    width: 350px;
+    height: 350px;
+}
+#class{
+    width: 350px;
+    height: 350px;
+}
+#sports{
+    width: 350px;
+    height: 350px;
+}
+#myCarousel{
+    background-color: azure;
+}
+#welcome{
+    font-family:fantasy;
+    background-color:rgb(118, 118, 235, 0.3)
+}
+#principal_bg{
+    background-color: rgb(118, 118, 235 , 0.3);
+    color: white;
+}
+#contact{
+    background-color: rgb(61, 55, 55 );
+    color: beige;
+}
+.icon{
+    color:white;
+}
+.white{
+    color: white;
+}
+iframe{
+    width:1000px;
+}
+h5{
+    background-color:black;
+    color:white;
+    font-family:Arial;
+  }
+#about{
+    background-color:azure;
+}
+a{
+    color: white;
+}
+.school_success
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.school_success i{
+    float: right;color: aliceblue;
+}
+.topper_text span{
+    color: orange;
+}
+.info{
+font-family:Impact;
+color: black;
+font-size: 30px;
+background-color: white;
+}
+.info_text2{
+    width: 350px;
+    height: 100px; 
+}
+.info_text{
+    width: 150px;
+    height: 50px; 
+}
